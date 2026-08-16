@@ -1,0 +1,12 @@
+DROP TABLE IF EXISTS webhook_logs;
+DROP TABLE IF EXISTS trc20_address_pool;
+DROP TABLE IF EXISTS system_settings;
+DROP TABLE IF EXISTS scanning_state;
+DROP TABLE IF EXISTS sweeps;
+DROP TABLE IF EXISTS gas_wallets;
+DROP TABLE IF EXISTS crypto_deposit_receipts;
+DROP TABLE IF EXISTS crypto_deposits;
+DROP TABLE IF EXISTS transactions;
+DROP TABLE IF EXISTS hd_derivation_counters;
+DROP TABLE IF EXISTS hd_wallets;
+DROP TABLE IF EXISTS merchants;
