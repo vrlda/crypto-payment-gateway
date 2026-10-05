@@ -2,6 +2,8 @@
 
 Multi-chain crypto payment core in Go: blockchain deposit detection, HD wallet derivation, confirmation tracking, gas/prefund management, TRON energy rental, and automated sweeping for Bitcoin, EVM chains, TRON, Solana, and TON.
 
+This is the payment core of the crypto gateway I ran before building [Vulta](https://vulta.one), a non-custodial payment platform where clients pay by card or crypto and funds go straight to the merchant's own wallet.
+
 ## What is included
 
 - HD wallet address derivation and address validation
